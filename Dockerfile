@@ -1,2 +1,2 @@
-from breayanmt/intermediario2:v1
+from breayanmt/intermediario:v1
 expose 80
